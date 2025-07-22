@@ -1,5 +1,6 @@
-dash
-dash-table
+dash==2.8.0
+dash-table==2.8.0
 pandas
 plotly
 gunicorn
+
